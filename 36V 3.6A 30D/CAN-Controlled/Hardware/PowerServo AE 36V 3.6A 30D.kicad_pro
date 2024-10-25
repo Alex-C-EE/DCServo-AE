@@ -63,7 +63,6 @@
         "clearance|101187500|80137500|2057f078-7e6f-44d4-b142-f5f9041e9098|1a32fc4e-dad1-4bc4-95d1-a764e7c0cfdc",
         "clearance|101187500|80737500|0b3ca7c2-d754-470b-952c-0fcc6d39d3c6|2057f078-7e6f-44d4-b142-f5f9041e9098",
         "clearance|104237500|80362500|0a27d4a4-5574-44a0-bb18-d22d377898d5|c291bf9e-5070-4c9e-bdd2-1b5f82e7e82e",
-        "clearance|104237500|80850002|551c6c0c-5da7-4d37-bdb6-cedcf9bf8806|0a27d4a4-5574-44a0-bb18-d22d377898d5",
         "clearance|104237500|80962502|c291bf9e-5070-4c9e-bdd2-1b5f82e7e82e|961be193-0c5b-4d53-a718-bf3129d67ae8",
         "clearance|104237501|79762500|e1ffe89b-f8dc-4eef-b3bc-4be6c46b53a5|0a27d4a4-5574-44a0-bb18-d22d377898d5",
         "clearance|104525001|79650000|3888c958-19ef-44cd-ba2a-3cac2f68e6ba|0a27d4a4-5574-44a0-bb18-d22d377898d5",
@@ -528,7 +527,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "..\\GERBERS\\Export-Assembly\\Human BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -578,11 +577,53 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

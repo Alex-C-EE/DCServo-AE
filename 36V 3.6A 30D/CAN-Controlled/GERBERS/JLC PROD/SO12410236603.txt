@@ -1,0 +1,8 @@
+MODEL:Raw Export_Y4
+SIZE:20 x 20 CM    T = 0.12MM
+DATE:2024-10-26 22:00  
+NO:SO12410236603    6874775A (外贸)   
+[电印][无铝框钢片]
+注:以上为内部查单使用.
+
+请电印以下料号: DCServo - AE V0.7 STM32G0B1KBT / DRV8251A MA730

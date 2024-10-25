@@ -1,0 +1,20 @@
+Reference,Value,Footprint,Qty
+"C1,C11","100nF, X7R",-- mixed values --,2
+C2,"10uF, 50V, X7R",Capacitor_SMD:C_1206_3216Metric,1
+"C3,C9,C10",100nF,Capacitor_SMD:C_0402_1005Metric,3
+C4,4.7uF,Capacitor_SMD:C_0402_1005Metric,1
+C5,"1uF, X7R",Capacitor_SMD:C_0402_1005Metric,1
+C6,"2.2uF, X7R",Capacitor_SMD:C_0402_1005Metric,1
+C7,"10uF, 50V",Capacitor_SMD:C_1206_3216Metric,1
+C8,"100nF, 50V",Capacitor_SMD:C_0603_1608Metric,1
+"D1,D2",LED,LED_SMD:LED_0402_1005Metric,2
+IC1,DRV8251DDAR,_custom:SOIC127P600X170-9N,1
+R1,15k,Resistor_SMD:R_0402_1005Metric,1
+R2,120,Capacitor_SMD:C_0402_1005Metric,1
+R3,10k,Resistor_SMD:R_0402_1005Metric,1
+"R4,R5",430,Resistor_SMD:R_0402_1005Metric,2
+U1,LMZM23601V5,Package_LGA:Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias,1
+U2,TLV76733DRVx,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias,1
+U4,MA730,Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm,1
+U5,TJA1051T-3,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1
+U7,STM32G0B1KBTx,Package_QFP:LQFP-32_7x7mm_P0.8mm,1
