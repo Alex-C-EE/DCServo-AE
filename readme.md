@@ -1,13 +1,10 @@
-_This entire project is currently a WIP by a single person, I aim to have a High-Power (12-24V @ 10A) and a Mid Power (6-24V @ 3.6A) version completely done by the end of the year 2024._
-
-_**Really** open to contributors._
-
-**_It would be a REALLY bad idea to try and manufacture anything present here at this time_**
+_This entire project is currently a WIP by a single person_
+_Looking for contributors in the space of CAD / Mechanical. I need help making a casing for the shaft-mounted versions_
 
 **DCServo AE**
 
   DCServo AE is an open-source platform designed to effortlessly transform any Brushed DC motor into a continous smart servo with **high precision** and control. Built to provide **high-torque**, **high-RPM**, and accurate positioning through absolute encoding, DCServo AE is a modular solution for hobbyists, roboticists, and makers. 
-  The platform allows users to easily drop in a PowerServo AE controller onto a brushed DC motor, turning it into a powerful and precise smart servo, regardless of the motor's size or specifications.
+  The platform allows users to easily drop in the compact board onto a brushed DC motor, turning it into a powerful and precise smart servo, regardless of the motor's size or specifications.
 
 **Project Overview**
 
@@ -15,16 +12,17 @@ _**Really** open to contributors._
 
 **Core Features**
 - Plug and Play: With minimal considerations for design, it is ready to be strapped on the back of any **extended or dual axis/shaft, with magnet** BRUSHED DC Motor and turn it into a Smart Servo Motor.
-- Absolute Encoder: PowerServo AE uses magnetic absolute encoders for precise positioning and reliable feedback, eliminating the need for homing or recalibration after power loss.
+- Absolute Encoder: DCServo AE uses magnetic absolute encoders for precise positioning and reliable feedback, eliminating the need for homing or recalibration after power loss.
 - Modular Design: Multiple configurations allow for flexibility across a wide range of applications, from lightweight robotics to heavy-duty industrial tasks.
 - Open-Source: Both hardware and software are fully open-source, allowing anyone to contribute, modify, and improve the platform.
 - Compact Size: The designs are optimized for compactness, with some controllers as small as 12 mm in diameter, making them suitable for space-constrained applications.
 
 **Getting Started**
-
-Clone the Repository:
-
-``git clone https://github.com/Alex-C-EE/DCServo-AE.git``
+***_It would be a REALLY bad idea to try and manufacture anything present here at this time_***
+If you do, however want to help me test it out:
+- All Gerbers are pre-exported in the "Export" folder for each version
+- They were made with JLCPCB in mind
+- They are not JLC SMT friendly whatsoever, so expect the need to manually solder (sorry, fixing in the next verison 🤞)
 
 **Build Your Own:**
 
