@@ -18,7 +18,9 @@ _Looking for contributors in the space of CAD / Mechanical. I need help making a
 - Compact Size: The designs are optimized for compactness, with some controllers as small as 12 mm in diameter, making them suitable for space-constrained applications.
 
 **Getting Started**
+
 ***_It would be a REALLY bad idea to try and manufacture anything present here at this time_***
+
 If you do, however want to help me test it out:
 - All Gerbers are pre-exported in the "Export" folder for each version
 - They were made with JLCPCB in mind
