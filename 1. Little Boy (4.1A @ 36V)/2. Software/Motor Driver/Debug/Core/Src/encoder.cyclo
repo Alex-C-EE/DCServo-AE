@@ -1,0 +1,2 @@
+../Core/Src/encoder.c:15:7:ConvertRawToDegrees	1
+../Core/Src/encoder.c:21:7:Read_MA730_Angle	1

@@ -1,0 +1,6 @@
+../Core/Src/motor_control.c:24:6:Motor_Init	8	static
+../Core/Src/motor_control.c:47:6:Motor_SetDrivingValue	16	static
+../Core/Src/motor_control.c:71:6:Motor_Stop	8	static
+../Core/Src/motor_control.c:81:7:Motor_GetCurrent	16	static
+../Core/Src/motor_control.c:103:13:UpdatePWMOutputs	16	static
+../Core/Src/motor_control.c:134:6:HAL_ADC_LevelOutOfWindowCallback	16	static
