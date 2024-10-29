@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCadLibrary")(type "KiCad")(uri "E:/Proiecte/Electronica/PowerServo AE/DCServo-AE/7. General Libraries/KiCadLibrary.pretty")(options "")(descr ""))
+)
