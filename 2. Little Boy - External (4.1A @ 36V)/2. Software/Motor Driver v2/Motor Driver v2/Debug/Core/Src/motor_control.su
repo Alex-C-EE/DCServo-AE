@@ -1,0 +1,12 @@
+../Core/Src/motor_control.c:41:6:Motor_Init	8	static
+../Core/Src/motor_control.c:54:6:Motor_Configure	24	static
+../Core/Src/motor_control.c:63:6:Motor_SetSpeed	24	static
+../Core/Src/motor_control.c:87:6:Motor_Stop	8	static
+../Core/Src/motor_control.c:96:6:Motor_Brake	8	static
+../Core/Src/motor_control.c:113:6:Motor_UpdateBraking	24	static
+../Core/Src/motor_control.c:136:13:IsMotorStopped	32	static
+../Core/Src/motor_control.c:142:7:Motor_GetCurrent	24	static
+../Core/Src/motor_control.c:163:13:UpdatePWMOutputs	16	static
+../Core/Src/motor_control.c:190:6:HAL_ADC_LevelOutOfWindowCallback	16	static
+../Core/Src/motor_control.c:200:6:Motor_IsBraking	8	static
+../Core/Src/motor_control.c:205:19:Motor_GetLastDirection	8	static

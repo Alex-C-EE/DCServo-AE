@@ -1,0 +1,7 @@
+../Core/Src/config.c:58:6:Config_Init	1
+../Core/Src/config.c:63:6:Config_Validate	17
+../Core/Src/config.c:89:6:Config_SetPIDParameters	1
+../Core/Src/config.c:95:6:Config_SetPositionLimits	2
+../Core/Src/config.c:102:6:Config_SetTargetAngle	3
+../Core/Src/config.c:113:6:Config_SetBrakingParameters	6
+../Core/Src/config.c:134:6:Config_ResetStatus	1

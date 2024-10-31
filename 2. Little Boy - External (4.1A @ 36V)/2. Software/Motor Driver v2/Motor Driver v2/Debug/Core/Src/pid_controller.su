@@ -1,0 +1,4 @@
+../Core/Src/pid_controller.c:6:6:PIDController_Init	24	static
+../Core/Src/pid_controller.c:34:6:PIDController_UpdateGains	24	static
+../Core/Src/pid_controller.c:50:6:PIDController_Update	128	static
+../Core/Src/pid_controller.c:139:6:PIDController_Reset	16	static

@@ -1,0 +1,9 @@
+../Core/Src/encoder.c:31:15:ConvertRawToDegrees	16	static
+../Core/Src/encoder.c:39:17:SwapBytes	16	static
+../Core/Src/encoder.c:44:6:Encoder_Init	32	static
+../Core/Src/encoder.c:65:26:Encoder_ReadRegister	32	static
+../Core/Src/encoder.c:94:8:Encoder_CalculateVelocity	40	static
+../Core/Src/encoder.c:126:26:Encoder_WriteRegister	40	static
+../Core/Src/encoder.c:151:6:Update_Encoder_Angle	16	static
+../Core/Src/encoder.c:168:6:Encoder_SetZero	32	static
+../Core/Src/encoder.c:226:6:CheckMagneticField	16	static

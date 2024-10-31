@@ -1,0 +1,9 @@
+../Core/Src/encoder.c:31:15:ConvertRawToDegrees	1
+../Core/Src/encoder.c:39:17:SwapBytes	1
+../Core/Src/encoder.c:44:6:Encoder_Init	2
+../Core/Src/encoder.c:65:26:Encoder_ReadRegister	3
+../Core/Src/encoder.c:94:8:Encoder_CalculateVelocity	4
+../Core/Src/encoder.c:126:26:Encoder_WriteRegister	2
+../Core/Src/encoder.c:151:6:Update_Encoder_Angle	2
+../Core/Src/encoder.c:168:6:Encoder_SetZero	8
+../Core/Src/encoder.c:226:6:CheckMagneticField	5
