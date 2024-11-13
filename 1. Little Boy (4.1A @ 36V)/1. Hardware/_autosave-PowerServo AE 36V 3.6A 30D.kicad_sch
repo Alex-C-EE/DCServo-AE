@@ -7789,7 +7789,7 @@
 				)
 			)
 		)
-		(property "Value" "300"
+		(property "Value" "15k"
 			(at 154.686 149.86 90)
 			(effects
 				(font

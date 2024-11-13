@@ -483,7 +483,21 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 43)",
+      "+3V3": "rgb(255, 45, 0)",
+      "CAN_H": "rgb(15, 255, 0)",
+      "CAN_L": "rgb(4, 255, 0)",
+      "DRV_IN1": "rgb(0, 236, 255)",
+      "DRV_IN2": "rgb(0, 251, 255)",
+      "GND": "rgb(18, 0, 155)",
+      "ISEN": "rgb(0, 253, 255)",
+      "MAG_CS": "rgb(255, 207, 0)",
+      "MISO": "rgb(255, 207, 0)",
+      "MOSI": "rgb(255, 207, 0)",
+      "Net-(JP1-A)": "rgb(0, 255, 15)",
+      "SCK": "rgb(255, 207, 0)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
