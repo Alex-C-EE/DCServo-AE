@@ -483,7 +483,32 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 20)",
+      "+3.3VA": "rgb(255, 6, 0)",
+      "+3V3": "rgb(255, 0, 0)",
+      "+5V": "rgb(255, 0, 0)",
+      "CAN_H": "rgb(0, 158, 255)",
+      "CAN_L": "rgb(0, 184, 255)",
+      "CAN_SILENT": "rgb(240, 0, 255)",
+      "DRV_IN1": "rgb(12, 255, 0)",
+      "DRV_IN2": "rgb(98, 255, 0)",
+      "FLASH_CLK": "rgb(77, 255, 0)",
+      "FLASH_CS": "rgb(250, 0, 255)",
+      "FLASH_MISO": "rgb(0, 4, 255)",
+      "FLASH_MOSI": "rgb(8, 0, 255)",
+      "GND": "rgb(130, 98, 0)",
+      "ISEN": "rgb(0, 255, 34)",
+      "MAG_CS": "rgb(255, 0, 248)",
+      "MISO": "rgb(4, 0, 255)",
+      "MOSI": "rgb(22, 0, 255)",
+      "NRST": "rgb(255, 0, 222)",
+      "RP_RX": "rgb(255, 255, 255)",
+      "RP_TX": "rgb(255, 255, 255)",
+      "SCK": "rgb(128, 255, 0)",
+      "SWCLK": "rgb(0, 255, 12)",
+      "SWDIO": "rgb(0, 23, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
@@ -496,7 +521,7 @@
       "pos_files": "../GERBERS/Export-Assembly/",
       "specctra_dsn": "",
       "step": "../CAD/PowerServo AE 36V 3.6A 30D CAN - CAD.step",
-      "svg": "",
+      "svg": "REVIEW REQUEST/v0.3 17-11-24/",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1,0 +1,12 @@
+2024-11-17 10:32:21,852 - panelizer_logger - INFO - Running Panelizer
+2024-11-17 10:32:21,854 - panelizer_logger - INFO - ['--panelx', '5.500000', '--panely', '7.500000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000']
+2024-11-17 10:32:21,857 - panelizer_logger - INFO - PANELIZER START: 2024-11-17T10:32:21.857564
+2024-11-17 10:32:24,463 - panelizer_logger - ERROR - 
+START: 2024-11-17T10:32:21.857564
+Board saved by user.
+
+Board: C:\Users\const\OneDrive\Documents\GitHub\PowerServo-AE\2. Little Boy - External (4.1A @ 36V)\1. Hardware\Production\Little Boy - External_panelized.kicad_pcb
+Board dimensions: 40.00 x 40.00 mm.
+Panel size is too small for board. Quitting.
+
+2024-11-17 10:32:26,079 - panelizer_logger - INFO - Panelizer complete
