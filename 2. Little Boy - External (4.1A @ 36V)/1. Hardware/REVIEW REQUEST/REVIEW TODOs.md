@@ -5,7 +5,7 @@
 - [x] Add 25 MHz frequency value next to Y1
 - [x] Change IC# designators to U#
 - [x] Rearrange symbols to remove text/line crossings
-- [ ] Change microcontroller symbol and move SWD/NRST connections to the bottom left
+- [x] Change microcontroller symbol and move SWD/NRST connections to the bottom left
 - [x] Flip CAN RX and TX
 - [x] Add Common Node Choke for CAN
 
@@ -21,7 +21,7 @@
 ## PCB Layout
 - [x] Increase spacing between XT30 connectors to allow usage of heat shrink
 - [x] Move connector description silkscreen to back side
-- [ ] Add pin 1 triangular designators
+- [x] Add pin 1 triangular designators
 - [x] Add shield pad vias on encoder connector
 - [x] Space out U3 traces
 - [x] Add more vias near data vias
