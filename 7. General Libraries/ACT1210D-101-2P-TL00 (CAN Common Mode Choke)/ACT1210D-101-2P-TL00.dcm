@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT1210D-101-2P-TL00
+D 100 H @ 100 kHz 2 Line Common Mode Choke Surface Mount 115mA DCR 3Ohm
+K
+F https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_automotive_signal_act1210d_en.pdf
+$ENDCMP
+#
+#End Doc Library

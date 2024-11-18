@@ -6,8 +6,8 @@
 - [x] Change IC# designators to U#
 - [x] Rearrange symbols to remove text/line crossings
 - [ ] Change microcontroller symbol and move SWD/NRST connections to the bottom left
-- [ ] Flip CAN RX and TX
-- [ ] Add Common Node Choke for CAN
+- [x] Flip CAN RX and TX
+- [x] Add Common Node Choke for CAN
 
 
 ## Component Changes
@@ -40,7 +40,7 @@
 - [x] Move board date to bottom side
 
 ## 3D Model
-- [ ] Remove duplicate XT30 connectors floating above board
+- [x] Remove duplicate XT30 connectors floating above board
 
 ## Design Review
 - [x] Rethink CAN pass-through and node management/stud length

@@ -16,7 +16,9 @@
                 "file": "2. Little Boy - External (4.1A @ 36V)/1. Hardware/REVIEW REQUEST/REVIEW TODOs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "REVIEW TODOs"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "365666b9b55d26d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for REVIEW TODOs"
             }
           },
           {
@@ -105,7 +125,9 @@
                 "file": "2. Little Boy - External (4.1A @ 36V)/1. Hardware/REVIEW REQUEST/REVIEW TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from REVIEW TODOs"
             }
           },
           {
@@ -116,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +150,9 @@
               "type": "outline",
               "state": {
                 "file": "2. Little Boy - External (4.1A @ 36V)/1. Hardware/REVIEW REQUEST/REVIEW TODOs.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of REVIEW TODOs"
             }
           }
         ]
@@ -147,5 +173,16 @@
     }
   },
   "active": "8857487fea6a38d7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_210731.zip",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/fp-DC5F.tmp",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_175511.zip",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_174442.zip",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/~Little Boy - External.kicad_pcb.lck",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/fp-4215.tmp",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/~_autosave-Little Boy - External.kicad_pcb.lck",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_173928.zip",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/_autosave-Little Boy - External.kicad_pcb",
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_172908.zip"
+  ]
 }
