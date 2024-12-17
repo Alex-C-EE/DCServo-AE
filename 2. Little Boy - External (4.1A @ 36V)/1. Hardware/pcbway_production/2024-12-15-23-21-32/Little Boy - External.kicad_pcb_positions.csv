@@ -1,0 +1,54 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+142.23,-53.25,180.0,top,C1,,,C_0402_1005Metric,TBC,smt
+162.004999,-71.73,90.0,top,C10,,,C_0402_1005Metric,100nF,smt
+129.578248,-71.75,45.0,bottom,C11,,,C_0805_2012Metric,"10uF, 50V",smt
+129.5,-77.02,90.0,top,C12,,,C_0402_1005Metric,"100nF, X7R",smt
+140.339411,-75.0,180.0,top,C13,,,C_0402_1005Metric,"100nF, 50V",smt
+130.75,-62.05,90.0,top,C14,,,C_0805_2012Metric,"10uF, 50V",smt
+125.25,-63.449999,180.0,top,C15,,,C_0805_2012Metric,"220nF, 50V",smt
+128.75,-53.7,0.0,top,C16,,,C_0805_2012Metric,"1uF, 16V, X7R",smt
+159.200448,-56.157502,0.0,top,C17,,,C_0402_1005Metric,100nF,smt
+126.5,-53.700001,90.0,top,C18,,,C_0402_1005Metric,"100nF, 16V",smt
+128.25,-49.5,-90.0,top,C19,,,C_0603_1608Metric,"22uF, 16V",smt
+145.48,-56.25,0.0,top,C2,,,C_0402_1005Metric,100nF,smt
+126.749999,-49.474999,-90.0,top,C20,,,C_0603_1608Metric,"22uF, 16V",smt
+130.637497,-49.309178,90.0,top,C21,,,C_0805_2012Metric,"1uF, X7R",smt
+134.999997,-49.179179,90.0,top,C22,,,C_0402_1005Metric,"2.2uF, X7R",smt
+154.75,-72.75,-90.0,top,C25,,,C_0402_1005Metric,100nF,smt
+156.400003,-46.548237,90.0,top,C26,,,C_0402_1005Metric,100pF,smt
+156.4,-49.028237,90.0,top,C27,,,C_0402_1005Metric,100pF,smt
+139.35,-55.65,90.0,top,C3,,,C_0402_1005Metric,TBC,smt
+145.5,-57.25,0.0,top,C4,,,C_0402_1005Metric,1uF,smt
+138.23,-59.0,180.0,top,C5,,,C_0402_1005Metric,100nF,smt
+138.229999,-58.029998,180.0,top,C6,,,C_0402_1005Metric,100nF,smt
+138.229997,-57.029997,180.0,top,C7,,,C_0402_1005Metric,4.7uF,smt
+134.468912,-72.749999,30.0,top,C8,,,CP_Radial_D8.0mm_P3.50mm,"100uF, 80V",tht
+154.25,-60.0,90.0,top,C9,,,C_0402_1005Metric,100nF,smt
+134.55,-56.5,-90.0,top,D1,,,LED_0603_1608Metric,LED,smt
+132.95,-56.499997,-90.0,top,D2,,,LED_0603_1608Metric,LED,smt
+153.0,-47.75,0.0,top,FL1,,,ACT1210D1012PTL00,ACT1210D-101-2P-TL00,smt
+138.972499,-48.955001,90.0,top,J13,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,Control_In,tht
+145.972498,-48.955001,90.0,top,J14,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,Control_In,tht
+157.8,-63.0,90.0,top,J5,,,Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal,Conn_01x06_MountingPin,smt
+133.25,-79.25,0.0,top,J8,,,AMASS_XT30UPB-M_1x02_P5.0mm_Vertical,Power_In,tht
+150.249999,-79.250002,180.0,top,J9,,,AMASS_XT30UPB-M_1x02_P5.0mm_Vertical,Power_In,tht
+145.0,-54.734998,-90.0,top,L1,,,L_0402_1005Metric,27nH,smt
+124.625,-52.7,90.0,top,L2,,,L_1008_2520Metric,1.5 uH,smt
+148.05,-67.8,90.0,top,R1,,,R_0402_1005Metric,10k,smt
+154.0,-75.25,90.0,top,R11,,,R_0402_1005Metric,10k,smt
+128.1,-62.85,0.0,top,R12,,,R_0402_1005Metric,100k,smt
+134.25,-58.999998,90.0,top,R2,,,R_0402_1005Metric,430,smt
+133.25,-58.999998,90.0,top,R3,,,R_0402_1005Metric,430,smt
+135.250001,-65.75,-90.0,top,R4,ERJ-B1CFR10U,,ERJB1_(1020),ERJ-B1CFR10U,smt
+128.000001,-51.949999,180.0,top,R5,,,R_0402_1005Metric,100k,smt
+130.5,-51.95,180.0,top,R6,,,R_0603_1608Metric,24k,smt
+132.5,-52.44,90.0,top,R7,,,R_0402_1005Metric,900,smt
+160.270449,-52.080002,0.0,top,R8,,,C_0402_1005Metric,120,smt
+156.979999,-72.25,90.0,top,SWD,,,PinHeader_2x03_P1.27mm_Vertical,Prog_IN,tht
+143.0,-63.0,-90.0,top,U1,,,LQFP-48_7x7mm_P0.5mm,STM32G0B1CBTx,smt
+126.9,-58.6,90.0,top,U2,,,Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias,LMR33630CDDA,smt
+151.9,-54.65,0.0,top,U3,,,SOIC-8_3.9x4.9mm_P1.27mm,TJA1051T-3,smt
+133.137501,-49.309177,180.0,top,U4,,,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias,TLV76733DRVx,smt
+148.5,-72.75,180.0,top,U6,,,SOIC-8_5.23x5.23mm_P1.27mm,W25Q128JVS,smt
+127.595001,-72.712001,90.0,top,U7,DRV8251DDAR,,SOIC127P600X170-9N,DRV8251DDAR,smt
+142.0,-55.5,0.0,top,Y1,,,Crystal_SMD_3225-4Pin_3.2x2.5mm,25 MHz,smt

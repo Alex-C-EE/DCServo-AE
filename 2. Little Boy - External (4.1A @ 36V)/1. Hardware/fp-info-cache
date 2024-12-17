@@ -1,4 +1,4 @@
-23916105208057847
+23917837475138570
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97208,6 +97208,13 @@ Filter
 0
 4
 4
+_custom
+MC33HB2000AES
+SOT788_3(DD)
+Integrated Circuit
+0
+37
+37
 _custom
 PWP0024J_M
 

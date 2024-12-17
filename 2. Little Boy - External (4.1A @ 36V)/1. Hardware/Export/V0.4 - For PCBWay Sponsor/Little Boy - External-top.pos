@@ -1,0 +1,58 @@
+### Footprint positions - created on 2024-12-15T23:01:26+0200 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Designator     Val                     Package                                                Mid X       Mid Y       Rotation  Layer
+C1        TBC                     C_0402_1005Metric                                  142.2300   -53.2500  180.0000  top
+C2        100nF                   C_0402_1005Metric                                  145.4800   -56.2500    0.0000  top
+C3        TBC                     C_0402_1005Metric                                  139.3500   -55.6500   90.0000  top
+C4        1uF                     C_0402_1005Metric                                  145.5000   -57.2500    0.0000  top
+C5        100nF                   C_0402_1005Metric                                  138.2300   -59.0000  180.0000  top
+C6        100nF                   C_0402_1005Metric                                  138.2300   -58.0300  180.0000  top
+C7        4.7uF                   C_0402_1005Metric                                  138.2300   -57.0300  180.0000  top
+C8        100uF,_80V              CP_Radial_D8.0mm_P3.50mm                           134.4689   -72.7500   30.0000  top
+C9        100nF                   C_0402_1005Metric                                  154.2500   -60.0000   90.0000  top
+C10       100nF                   C_0402_1005Metric                                  162.0050   -71.7300   90.0000  top
+C12       100nF,_X7R              C_0402_1005Metric                                  129.5000   -77.0200   90.0000  top
+C13       100nF,_50V              C_0402_1005Metric                                  140.3394   -75.0000  180.0000  top
+C14       10uF,_50V               C_0805_2012Metric                                  130.7500   -62.0500   90.0000  top
+C15       220nF,_50V              C_0805_2012Metric                                  125.2500   -63.4500  180.0000  top
+C16       1uF,_16V,_X7R           C_0805_2012Metric                                  128.7500   -53.7000    0.0000  top
+C17       100nF                   C_0402_1005Metric                                  159.2004   -56.1575    0.0000  top
+C18       100nF,_16V              C_0402_1005Metric                                  126.5000   -53.7000   90.0000  top
+C19       22uF,_16V               C_0603_1608Metric                                  128.2500   -49.5000  -90.0000  top
+C20       22uF,_16V               C_0603_1608Metric                                  126.7500   -49.4750  -90.0000  top
+C21       1uF,_X7R                C_0805_2012Metric                                  130.6375   -49.3092   90.0000  top
+C22       2.2uF,_X7R              C_0402_1005Metric                                  135.0000   -49.1792   90.0000  top
+C25       100nF                   C_0402_1005Metric                                  154.7500   -72.7500  -90.0000  top
+C26       100pF                   C_0402_1005Metric                                  156.4000   -46.5482   90.0000  top
+C27       100pF                   C_0402_1005Metric                                  156.4000   -49.0282   90.0000  top
+D1        LED                     LED_0603_1608Metric                                134.5500   -56.5000  -90.0000  top
+D2        LED                     LED_0603_1608Metric                                132.9500   -56.5000  -90.0000  top
+FL1       ACT1210D-101-2P-TL00    ACT1210D1012PTL00                                  153.0000   -47.7500    0.0000  top
+J5        Conn_01x06_MountingPin  Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal   157.8000   -63.0000   90.0000  top
+J8        Power_In                AMASS_XT30UPB-M_1x02_P5.0mm_Vertical               133.2500   -79.2500    0.0000  top
+J9        Power_In                AMASS_XT30UPB-M_1x02_P5.0mm_Vertical               150.2500   -79.2500  180.0000  top
+J13       Control_In              JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical              138.9725   -48.9550   90.0000  top
+J14       Control_In              JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical              145.9725   -48.9550   90.0000  top
+L1        27nH                    L_0402_1005Metric                                  145.0000   -54.7350  -90.0000  top
+L2        1.5_uH                  L_1008_2520Metric                                  124.6250   -52.7000   90.0000  top
+R1        10k                     R_0402_1005Metric                                  148.0500   -67.8000   90.0000  top
+R2        430                     R_0402_1005Metric                                  134.2500   -59.0000   90.0000  top
+R3        430                     R_0402_1005Metric                                  133.2500   -59.0000   90.0000  top
+R4        ERJ-B1CFR10U            ERJB1_(1020)                                       135.2500   -65.7500  -90.0000  top
+R5        100k                    R_0402_1005Metric                                  128.0000   -51.9500  180.0000  top
+R6        24k                     R_0603_1608Metric                                  130.5000   -51.9500  180.0000  top
+R7        900                     R_0402_1005Metric                                  132.5000   -52.4400   90.0000  top
+R8        120                     C_0402_1005Metric                                  160.2704   -52.0800    0.0000  top
+R11       10k                     R_0402_1005Metric                                  154.0000   -75.2500   90.0000  top
+R12       100k                    R_0402_1005Metric                                  128.1000   -62.8500    0.0000  top
+SWD       Prog_IN                 PinHeader_2x03_P1.27mm_Vertical                    156.9800   -72.2500   90.0000  top
+U1        STM32G0B1CBTx           LQFP-48_7x7mm_P0.5mm                               143.0000   -63.0000  -90.0000  top
+U2        LMR33630CDDA            Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias     126.9000   -58.6000   90.0000  top
+U3        TJA1051T-3              SOIC-8_3.9x4.9mm_P1.27mm                           151.9000   -54.6500    0.0000  top
+U4        TLV76733DRVx            WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias     133.1375   -49.3092  180.0000  top
+U6        W25Q128JVS              SOIC-8_5.23x5.23mm_P1.27mm                         148.5000   -72.7500  180.0000  top
+U7        DRV8251DDAR             SOIC127P600X170-9N                                 127.5950   -72.7120   90.0000  top
+Y1        25_MHz                  Crystal_SMD_3225-4Pin_3.2x2.5mm                    142.0000   -55.5000    0.0000  top
+## End
