@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.95,
-          "width": 0.875
+          "drill": 1.75,
+          "height": 2.75,
+          "width": 2.75
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,11 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|131091414|47609178|642a1925-3575-44c6-8a60-04087d94433b|347a7d83-c88f-477f-b7ad-ab4870a878b7",
-        "courtyards_overlap|131807503|48325268|642a1925-3575-44c6-8a60-04087d94433b|57b5211f-0f24-4200-a0f3-405190832020",
-        "silk_over_copper|154478757|48223576|ac554d6d-7b5b-4767-b458-58a0eaeb569c|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -490,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Export/V0.4 - For PCBWay Sponsor/DCServo-LittleBoy-External-V04-GERBER/",
+      "plot": "Export/V0.5 - For JLCPCB/",
       "pos_files": "Export/V0.4 - For PCBWay Sponsor/",
       "specctra_dsn": "",
       "step": "",
