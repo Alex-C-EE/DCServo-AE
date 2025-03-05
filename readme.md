@@ -10,7 +10,6 @@
 
 [Features](#features) • [Getting Started](#getting-started) • [Documentation](#documentation) • [Contributing](#contributing) • [Community](#community)
 
-<img src="/api/placeholder/800/400" alt="DCServo AE Project Banner">
 
 </div>
 
